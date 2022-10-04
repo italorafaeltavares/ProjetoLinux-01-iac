@@ -5,7 +5,7 @@
 
 > Executando o script projeto-01.sh: 
 ````
-root@SRV-OLIMPO:~/projeto# ./projeto.sh
+root@SRV-OLIMPO:~/projeto# ./projeto-01.sh
 CRIANDO DIRETORIOS
 CRIANDO GRUPOS
 APLICANDO PERMISSIONAMENTOS
