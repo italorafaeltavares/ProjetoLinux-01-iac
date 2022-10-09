@@ -3,9 +3,9 @@
 
 <p></p>
 
-> Executando o script projeto-01.sh: 
+> Executando o script script-iac1.sh: 
 ````
-root@SRV-OLIMPO:~/projeto# ./projeto-01.sh
+root@SRV-OLIMPO:~/projeto# ./script-iac1.sh
 CRIANDO DIRETORIOS
 CRIANDO GRUPOS
 APLICANDO PERMISSIONAMENTOS
